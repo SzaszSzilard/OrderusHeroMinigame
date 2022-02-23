@@ -5,28 +5,31 @@ OOP demo minigame, about Orderus fighting against monsters, with random stats.
 php -f public\index.php
 
 ## Example output
-Orderus hp: 82              
-Monster hp: 75              
-The fight has been started  
-- Orderus attacks!          
-Orderus used simple strike. 
-Monster used simple defence:
-Monster sustained 30 damage!
-Monster hp: 45              
-- Monster attacks!          
-Monster used simple strike. 
-Orderus used simple defence:
-Orderus sustained 34 damage!
-Orderus hp: 48              
-Monster got lucky. Orderus missed its attack...
-- Monster attacks!
-Orderus got lucky. Monster missed its attack...
-- Orderus attacks!
-Orderus used rapid strike.
-Monster used simple defence:
-Monster sustained 30 damage!
-Monster hp: 15
-Monster used simple defence:
-Monster sustained 30 damage!
-Monster hp: 0
+Orderus hp: 82<br />
+Monster hp: 75<br />
+
+The fight has been started<br />
+\- Orderus attacks!<br />
+Orderus used simple strike.<br /> 
+Monster used simple defence:<br />
+Monster sustained 30 damage!<br />
+Monster hp: 45<br />
+\- Monster attacks!<br />
+Monster used simple strike.<br />
+Orderus used simple defence:<br />
+Orderus sustained 34 damage!<br />
+Orderus hp: 48<br />
+\- Orderus attacks!
+Monster got lucky. Orderus missed its attack...<br />
+\- Monster attacks!<br />
+Orderus got lucky. Monster missed its attack...<br />
+\- Orderus attacks!<br />
+Orderus used rapid strike.<br />
+Monster used simple defence:<br />
+Monster sustained 30 damage!<br />
+Monster hp: 15<br />
+Monster used simple defence:<br />
+Monster sustained 30 damage!<br />
+Monster hp: 0<br />
+
 Winner: Orderus
