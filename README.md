@@ -19,7 +19,7 @@ Monster used simple strike.<br />
 Orderus used simple defence:<br />
 Orderus sustained 34 damage!<br />
 Orderus hp: 48<br />
-\- Orderus attacks!
+\- Orderus attacks!<br />
 Monster got lucky. Orderus missed its attack...<br />
 \- Monster attacks!<br />
 Orderus got lucky. Monster missed its attack...<br />
