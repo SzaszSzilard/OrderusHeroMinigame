@@ -1,5 +1,5 @@
 # OrderusHeroMinigame
-OOP demo minigame, about Orderus fighting against monsters, with random stats. /
+OOP demo minigame, about Orderus fighting against monsters, with random stats. \
 Using decoratior design pattern.
 
 ## Run
